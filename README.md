@@ -1,4 +1,4 @@
-# Xcelore Doctor-Patient API
+## Doctor-Patient API
 
 ## Project Description
 
